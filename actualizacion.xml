@@ -1,6 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.7" encoding="utf-8" ?>
 <item>
-    <version>1.7.1</version>
-    <url>https://github.com/Edwnnf87/DieselPro-Distribucion/releases/download/v1.0.0/DieselPro.zip</url>
-    <mandatory>false</mandatory>
+  <version>1.7.0.1</version>
+  <url>https://github.com/Edwnnf87/DieselPro-Distribucion/raw/main/SistemaCotizaciones.exe</url>
+  <changelog>https://github.com/Edwnnf87/DieselPro-Distribucion/releases</changelog>
+  <mandatoy>false</mandatoy>
 </item>
+
