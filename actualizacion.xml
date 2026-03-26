@@ -3,5 +3,6 @@
     <version>1.0.0.13</version>
     <url>https://github.com/Edwnnf87/DieselPro-Distribucion/releases/download/v1.0.0.13/SistemaCotizaciones.zip</url>
     <changelog>https://github.com/Edwnnf87/DieselPro-Distribucion/releases</changelog>
+    <checksum algorithm="MD5">C4F7218D088D4A00040493BD93E237C1</checksum>
     <mandatory>false</mandatory>
 </item>
