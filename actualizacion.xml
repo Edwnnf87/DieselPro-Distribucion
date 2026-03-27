@@ -3,10 +3,6 @@
     <version>1.0.0.18</version>
     <url>https://github.com/Edwnnf87/DieselPro-Distribucion/releases/download/v1.0.0.18/SistemaCotizaciones.zip</url>
     <changelog>https://github.com/Edwnnf87/DieselPro-Distribucion/releases</changelog>
-    <checksum algorithm="MD5">A0986FE9B11FEC7AE1F07509B2972776</checksum>
-    <checksum algorithm="MD5">13E6F123E38974830C96302E7611E441</checksum>
-    <checksum algorithm="MD5">55D600B8C5C1DAD335D31C217D98D35D</checksum>
-    <checksum algorithm="MD5">388F00D7549248B2B1A59DEF4B80E89C</checksum>
     <checksum algorithm="MD5">59BD411C2853DEA6C066E17AFF880ECB</checksum>
     <mandatory>false</mandatory>
 </item>
