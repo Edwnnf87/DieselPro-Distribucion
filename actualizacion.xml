@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.0.23</version>
-    <url>https://github.com/Edwnnf87/DieselPro-Distribucion/releases/download/v1.0.0.23/SistemaCotizaciones.zip</url>
+    <version>1.0.0.24</version>
+    <url>https://github.com/Edwnnf87/DieselPro-Distribucion/releases/download/v1.0.0.24/SistemaCotizaciones.zip</url>
     <changelog>https://github.com/Edwnnf87/DieselPro-Distribucion/releases</changelog>
     
     
@@ -12,6 +12,7 @@
     
     
     
-    <checksum algorithm="MD5">69A06D20EF05E87D117881E8BED38CA5</checksum>
+    
+    <checksum algorithm="MD5">9243EDC656E766A55C1CBD87CE1B03DE</checksum>
     <mandatory>false</mandatory>
 </item>
